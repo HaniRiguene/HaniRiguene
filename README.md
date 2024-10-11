@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hani Riguene</h1>
+<h1 align="center">Hi 👋, I'm Hani Rigane</h1>
 <h3 align="center">A passionate Embedded systems developer and Master's student in Smart and Sustainable Mobility</h3>
 
 - 🌱 I’m currently learning **Software development** and pursuing a master's degree in **Information Technology for Smart and Sustainable Mobility** in **Valenciennes, France**
